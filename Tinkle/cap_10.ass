@@ -15,9 +15,10 @@ Export Encoding: UTF-8
 Last Style Storage: JPT
 Audio File: ?video
 Video File: [Zero-Raws] Jewel Pet - Tinkle - 10 RAW (TX 1280x720 x264 AAC).mp4.mp4.mp4
-Scroll Position: 208
-Active Line: 182
-Video Position: 12730
+Video Zoom Percent: 0.875000
+Scroll Position: 108
+Active Line: 113
+Video Position: 7725
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -118,8 +119,8 @@ Dialogue: 0,0:03:12.79,0:03:15.92,1JPT,,0,0,0,,Oh wow, eso fue atemorizante
 Dialogue: 0,0:03:16.17,0:03:19.09,1JPT,,0,0,0,,Como pueden estar tan calmados mientras hablan de cosas como esas
 Dialogue: 0,0:03:19.63,0:03:21.43,1JPT,,0,0,0,,A~kari~~chan
 Dialogue: 0,0:03:24.22,0:03:25.80,1JPT,,0,0,0,,O- Oye, me asustaste
-Dialogue: 0,0:03:26.10,0:03:28.47,1JPT,,0,0,0,,Yo soy la que estaba asustada 
-Dialogue: 0,0:03:28.72,0:03:30.73,1JPT,,0,0,0,,No me gusta estar asustada
+Dialogue: 0,0:03:26.10,0:03:28.47,1JPT,,0,0,0,,Yo soy la que estaba asustada
+Dialogue: 0,0:03:28.72,0:03:30.73,1JPT,,0,0,0,,No me gusta ser asustada
 Dialogue: 0,0:03:31.06,0:03:32.10,1JPT,,0,0,0,,Sabes, sabes
 Dialogue: 0,0:03:32.19,0:03:35.52,1JPT,,0,0,0,,Tour-sama esta llevando a cabo un evento en la academia esta noche
 Dialogue: 0,0:03:35.73,0:03:37.07,1JPT,,0,0,0,,Apuremosnos y unamosnos tambien
@@ -133,7 +134,7 @@ Dialogue: 0,0:04:04.59,0:04:07.47,1JPT,,0,0,0,,El concurso de los siete misterio
 Dialogue: 0,0:04:09.22,0:04:10.06,1JPT,,0,0,0,,Tour
 Dialogue: 0,0:04:10.39,0:04:12.68,1JPT,,0,0,0,,¿Como es que se le ocurrio algo como eso?
 Dialogue: 0,0:04:14.31,0:04:16.27,1JPT,,0,0,0,,Encontre este libro en la biblioteca
-Dialogue: 0,0:04:16.52,0:04:20.48,1JPT,,0,0,0,,Y asi aprendi de los siete misterios que existian en esta escuela desde hace años
+Dialogue: 0,0:04:16.52,0:04:20.48,1JPT,,0,0,0,,Y asi aprendi los siete misterios que existian en esta escuela desde hace años
 Dialogue: 0,0:04:24.78,0:04:26.78,1JPT,,0,0,0,,Los siete misterios estan escritos en esos papeles
 Dialogue: 0,0:04:26.91,0:04:28.87,1JPT,,0,0,0,,Me gustaria que investigaran sobre ellos
 Dialogue: 0,0:04:29.87,0:04:31.91,1JPT,,0,0,0,,¿"Las siete fantasias"?
@@ -149,9 +150,9 @@ Dialogue: 0,0:04:50.42,0:04:53.48,1JPT,,0,0,0,,Como ves, no puedes usar magia en
 Dialogue: 0,0:04:53.73,0:04:55.10,1JPT,,0,0,0,,Asi que, ¿no tendremos magia esta noche?
 Dialogue: 0,0:04:57.35,0:04:57.98,1JPT,,0,0,0,,¿Nicola?
 Dialogue: 0,0:04:59.11,0:05:01.02,1JPT,,0,0,0,,E-Esto no tiene nada que ver con mi magia
-Dialogue: 0,0:05:01.02,0:05:05.40,1JPT,,0,0,0,,Una genia como yo simplemente no tiene tiempo que perder en algo tan trivial como un concurso de los siete misterios
+Dialogue: 0,0:05:01.02,0:05:05.40,1JPT,,0,0,0,,Un genio como yo simplemente no tiene tiempo que perder en algo tan trivial como un concurso de los siete misterios
 Dialogue: 0,0:05:05.40,0:05:07.03,1JPT,,0,0,0,,Por favor disculpennos-dechu
-Dialogue: 0,0:05:07.07,0:05:07.95,1JPT,,0,0,0,,¿Estas asustada?
+Dialogue: 0,0:05:07.07,0:05:07.95,1JPT,,0,0,0,,¿Estas asustado?
 Dialogue: 0,0:05:09.28,0:05:11.41,1JPT,,0,0,0,,Q-Que, claro que no
 Dialogue: 0,0:05:11.49,0:05:13.29,1JPT,,0,0,0,,No es la gran cosa para nosotros-dechu
 Dialogue: 0,0:05:13.66,0:05:15.29,1JPT,,0,0,0,,Terminemos con esto de una vez, Tour
