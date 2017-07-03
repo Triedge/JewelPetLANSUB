@@ -40,8 +40,8 @@ Style: Huge,Ravie,50,&H003D70E7,&H000000FF,&H001B1797,&H001B1797,0,0,0,0,100,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.60,0:00:03.98,1JPT,,0,0,0,,Son mascotas con ojos como joyas, las Jewelpets
-Dialogue: 0,0:00:04.35,0:00:06.90,1JPT,,0,0,0,,Nacidas para amigarse con los humanos
+Dialogue: 0,0:00:00.60,0:00:03.98,1JPT,,0,0,0,,Son mascotas con los ojos como joyas, las Jewelpets
+Dialogue: 0,0:00:04.35,0:00:06.90,1JPT,,0,0,0,,Nacidas para ser amigo de los humanos
 Dialogue: 0,0:00:07.36,0:00:10.94,1JPT,,0,0,0,,Ahora, vayan y aprendan el arte magico de brindarle alegria a los humanos
 Dialogue: 0,0:00:11.03,0:00:11.86,1JPT,,0,0,0,,Si~
 Dialogue: 0,0:00:12.07,0:00:13.45,1JPT,,0,0,0,,Con brillantes corazones
@@ -54,36 +54,36 @@ Dialogue: 0,0:00:22.96,0:00:25.96,1JPT,,0,0,0,,Todas y cada una de las chicas so
 Dialogue: 0,0:00:26.04,0:00:28.96,1JPT,,0,0,0,,Twinkle, twinkle, Jewel Flash
 Dialogue: 0,0:00:31.21,0:00:33.63,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Tinkle
 Dialogue: 0,0:00:31.21,0:00:33.63,OPJPT,,0,0,0,,{\pos(320,26)}Brilla {\fs25\b0}☆ {\fs35\b1}Feliz
-Dialogue: 0,0:00:34.26,0:00:37.18,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} tobikiri no
+Dialogue: 0,0:00:34.26,0:00:37.18,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} magnífico
 Dialogue: 0,0:00:34.26,0:00:37.18,OPJPT,,0,0,0,,{\pos(320,26)}Feliz {\fs25\b0}☆ {\fs35\b1}Feliz {\fs25\b0}☆ {\fs35\b1} quiero ver
-Dialogue: 0,0:00:37.18,0:00:39.68,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} yume o mite
+Dialogue: 0,0:00:37.18,0:00:39.68,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Happy {\fs25\b0}☆ {\fs35\b1} Sueño y se ve
 Dialogue: 0,0:00:37.18,0:00:39.68,OPJPT,,0,0,0,,{\pos(320,26)}Feliz {\fs25\b0}☆ {\fs35\b1}Feliz {\fs25\b0}☆ {\fs35\b1} un hermoso sueño
 Dialogue: 0,0:00:40.14,0:00:42.64,OPJPT,,0,0,0,,{\pos(320,476)}Tonde tonde mirai e
 Dialogue: 0,0:00:40.14,0:00:42.64,OPJPT,,0,0,0,,{\pos(320,26)}Volando, volando hacia el futuro
-Dialogue: 0,0:00:43.10,0:00:46.19,OPJPT,,0,0,0,,{\pos(320,476)}Ready Go Ready Go Ready Go
+Dialogue: 0,0:00:43.10,0:00:46.19,OPJPT,,0,0,0,,{\pos(320,476)}Listo va vamos, listos va vamos
 Dialogue: 0,0:00:43.10,0:00:46.19,OPJPT,,0,0,0,,{\pos(320,26)}Listos va vamos, Listos va vamos
 Dialogue: 0,0:00:46.40,0:00:48.27,OPJPT,,0,0,0,,{\pos(320,476)}Happy {\fs25\b0}☆ {\fs35\b1}Tinkle!
 Dialogue: 0,0:00:46.40,0:00:48.27,OPJPT,,0,0,0,,{\pos(320,26)}¡Brilla {\fs25\b0}☆ {\fs35\b1}Feliz!
-Dialogue: 0,0:00:47.73,0:00:53.49,Critter-Subs,,0,0,0,,{\fad(800,0)\pos(319,410)}Presented by Critter-Subs
+Dialogue: 0,0:00:47.73,0:00:53.49,Critter-Subs,,0,0,0,,{\fad(800,0)\pos(319,410)}Presentendo por Critter-Subs
 Dialogue: 0,0:00:53.49,0:00:58.28,OPJPT,,0,0,0,,{\pos(320,476)}Onna no ko wa dare mo, sekaijuu de
 Dialogue: 0,0:00:53.49,0:00:58.28,OPJPT,,0,0,0,,{\pos(320,26)}Cada niña en el mundo
-Dialogue: 0,0:00:59.66,0:01:03.50,OPJPT,,0,0,0,,{\pos(320,476)}tatta hitotsu no Jewel yo
+Dialogue: 0,0:00:59.66,0:01:03.50,OPJPT,,0,0,0,,{\pos(320,476)}Sólo uno de los Jewelpets
 Dialogue: 0,0:00:59.66,0:01:03.50,OPJPT,,0,0,0,,{\pos(320,26)}es como una joya
-Dialogue: 0,0:01:05.41,0:01:10.13,OPJPT,,0,0,0,,{\pos(320,476)}Jishin o nakushitara, kagami no naka
+Dialogue: 0,0:01:05.41,0:01:10.13,OPJPT,,0,0,0,,{\pos(320,476)}Si ha perdido su terreno, entre el espejo
 Dialogue: 0,0:01:05.41,0:01:10.13,OPJPT,,0,0,0,,{\pos(320,26)}Cuando su coraje pierden, hacia un espejo van
-Dialogue: 0,0:01:11.63,0:01:16.51,OPJPT,,0,0,0,,{\pos(320,476)}Jumon tonae, hashiridasou
+Dialogue: 0,0:01:11.63,0:01:16.51,OPJPT,,0,0,0,,{\pos(320,476)}Hechizo, de Hashiridaso
 Dialogue: 0,0:01:11.63,0:01:16.51,OPJPT,,0,0,0,,{\pos(320,26)}en el cual un hechizo en si mismas dan y a correr empiezan
-Dialogue: 0,0:01:16.55,0:01:19.30,OPJPT,,0,0,0,,{\pos(320,476)}Zenshin! Henshin!
+Dialogue: 0,0:01:16.55,0:01:19.30,OPJPT,,0,0,0,,{\pos(320,476)}Predecesor! Transformación!
 Dialogue: 0,0:01:16.55,0:01:19.30,OPJPT,,0,0,0,,{\pos(320,26)}¡Hacia adelante! ¡Transoformandose!
 Dialogue: 0,0:01:19.51,0:01:22.22,OPJPT,,0,0,0,,{\pos(320,476)}Tension agemasho!
 Dialogue: 0,0:01:19.51,0:01:22.22,OPJPT,,0,0,0,,{\pos(320,26)}¡Aumentando la tension!
-Dialogue: 0,0:01:22.97,0:01:29.40,OPJPT,,0,0,0,,{\pos(320,476)}Sono yasashisa, yuuki ga mahou ni naru yo
+Dialogue: 0,0:01:22.97,0:01:29.40,OPJPT,,0,0,0,,{\pos(320,476)}La bondad de, Yuki es mágica
 Dialogue: 0,0:01:22.97,0:01:29.40,OPJPT,,0,0,0,,{\pos(320,26)}Con esa amabilidad su coraje en magia convierten
 Dialogue: 0,0:01:30.73,0:01:33.53,OPJPT,,0,0,0,,{\pos(320,476)}Lucky {\fs25\b0}☆ {\fs35\b1}Lucky {\fs25\b0}☆ {\fs35\b1} omoikitte
 Dialogue: 0,0:01:30.73,0:01:33.53,OPJPT,,0,0,0,,{\pos(320,26)}Lucky {\fs25\b0}☆ {\fs35\b1}Lucky {\fs25\b0}☆ {\fs35\b1} hacia adelante
 Dialogue: 0,0:01:33.53,0:01:36.24,OPJPT,,0,0,0,,{\pos(320,476)}Lucky {\fs25\b0}☆ {\fs35\b1}Lucky {\fs25\b0}☆ {\fs35\b1} habataite
 Dialogue: 0,0:01:33.53,0:01:36.24,OPJPT,,0,0,0,,{\pos(320,26)}Lucky {\fs25\b0}☆ {\fs35\b1}Lucky {\fs25\b0}☆ {\fs35\b1} aleteando sus alas
-Dialogue: 0,0:01:36.49,0:01:39.20,OPJPT,,0,0,0,,{\pos(320,476)}Kitto kuru Miracle
+Dialogue: 0,0:01:36.49,0:01:39.20,OPJPT,,0,0,0,,{\pos(320,476)}Estoy seguro de que habra un milagro
 Dialogue: 0,0:01:36.49,0:01:39.20,OPJPT,,0,0,0,,{\pos(320,26)}De seguro un milagro sucedera
 Dialogue: 0,0:01:39.49,0:01:41.08,OPJPT,,0,0,0,,{\pos(320,476)}Ready Go Ready Go
 Dialogue: 0,0:01:39.49,0:01:41.08,OPJPT,,0,0,0,,{\pos(320,26)}Ready Go Ready Go
